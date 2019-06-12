@@ -83,19 +83,22 @@
                     <div class="col-md-4">
 
                         <div class="section-header text-left margin_left_pe">
+
                         <h2 class="title_section">BODEGA RAS</h2>
                         <h3 class="subtitle_section">Support</h3>
                         <div class="image_container"><img src="{{URL::asset('img/ic_launcher.png')}}" alt="Avatar" class="pb-image-pj"></div>
 
 
-                    </div>
+                        </div>
 
-                        {!! Form::open(['route' => 'contact.store']) !!}
+                       Please contact us at <a href="mailto:soporte.pisco.armada@gmail.com">
+
+                        <!--{!! Form::open(['route' => 'contact.store']) !!}
                             {!! Form::text('name', null, ['class' => 'input', 'placeholder'=>__('Name')]) !!}
                             {!! Form::text('email', null, ['class' => 'input', 'placeholder'=>__('Email')]) !!}
                             {!! Form::textarea('msg', null, ['class' => 'input', 'placeholder'=>__('Message')]) !!}
                             {!! Form::submit(__('SEND'), ['class' => 'main-btn']) !!}
-                        {!! Form::close() !!}
+                        {!! Form::close() !!}-->
 
                     </div>
                      <div class="col-md-4"></div>
