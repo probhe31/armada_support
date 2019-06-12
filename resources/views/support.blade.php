@@ -62,6 +62,10 @@
                 text-align: center;
                 margin-bottom: 50px;
             }
+
+            .contact-us{
+                color: white;
+            }
         </style>
 
        
@@ -91,7 +95,7 @@
 
                         </div>
 
-                       Please contact us at <a href="mailto:soporte.pisco.armada@gmail.com">
+                       <span class="contact-us">Please contact us at </span><a href="mailto:soporte.pisco.armada@gmail.com">soporte.pisco.armada@gmail.com</a>
 
                         <!--{!! Form::open(['route' => 'contact.store']) !!}
                             {!! Form::text('name', null, ['class' => 'input', 'placeholder'=>__('Name')]) !!}
