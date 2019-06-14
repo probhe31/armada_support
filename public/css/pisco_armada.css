@@ -1,0 +1,96 @@
+@font-face {
+  font-family: Constantine;
+  src: url("../fonts/Constantine.ttf");
+}
+
+body{
+	color: black;
+    background-color: white;
+    font-family: "Constantine", sans-serif;;
+}
+
+.title_section{
+    text-align: center;
+}
+
+.subtitle_section{
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.pb-image-pj{
+    text-align: center;
+}
+
+.image_container{
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+p{
+	text-align: justify;
+}
+
+h1{
+	text-align: center;
+}
+
+.logo{
+	border-radius: 20%;
+}
+
+input{
+    display: block;
+    width: 100%;
+    padding-left: 10px;
+    padding-right: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+textarea{
+    display: block;
+    width: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+.main-btn{
+    background-color: #6A3829;
+    border-width: 0px;
+}
+
+.title_section{
+    text-align: center;
+}
+
+.subtitle_section{
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.pb-image-pj{
+    text-align: center;
+}
+
+.image_container{
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.contact-us{
+    text-align: center;
+}
+
+.link{
+    text-align: center;
+}

@@ -7,10 +7,9 @@
         <title>Bodega RAS Support</title>
         <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css" media="all" />
 
+
  <link rel="stylesheet" href="css/pisco_armada.css" type="text/css" media="all" />
 
-
-   
 
        
     </head>
@@ -27,20 +26,24 @@
                
 
                         
-                    <div class="col-md-3"></div>
-                    <div class="col-md-6">
+                    
+                    <div class="col-md-12">
 
                         <div class="section-header text-left margin_left_pe">
 
                         <h2 class="title_section">BODEGA RAS</h2>
-                        <h3 class="subtitle_section">Support</h3>
-                        <div class="image_container"><img src="{{URL::asset('img/web_hi_res_512.png')}}" alt="Avatar" class="logo" width="180px"></div>
+                        <h3 class="subtitle_section">THE JOURNEY IS ABOUT TO START</h3>
+                        <div class="image_container"><img src="{{URL::asset('img/plano1.png')}}" alt="Avatar" class="pb-image-pj" width="600px"></div>
 
 
                         </div>
 
+
+                        <p class="contact-us">** For a full experience, scan this label from the side menu option "SCAN FROM WEB" in the Pisco Armada App.</p>
+                        <br>
                        <p class="contact-us">Please contact us at:</p>
                        <p class="contact-us"><a class="link" href="mailto:soporte.pisco.armada@gmail.com">soporte.pisco.armada@gmail.com</a></p>
+
 
                         <!--{!! Form::open(['route' => 'contact.store']) !!}
                             {!! Form::text('name', null, ['class' => 'input', 'placeholder'=>__('Name')]) !!}
@@ -50,7 +53,7 @@
                         {!! Form::close() !!}-->
 
                     </div>
-                     <div class="col-md-3"></div>
+                    
 
                  </div>
 

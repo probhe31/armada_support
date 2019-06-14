@@ -15,6 +15,11 @@ Route::get('/', function () {
     return view('support');
 });
 
+
+Route::get('/scan', function () {
+    return view('scan');
+});
+
 Route::get('/support', function () {
     return view('support');
 });
