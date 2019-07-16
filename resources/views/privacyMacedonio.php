@@ -51,7 +51,7 @@
 
 			<h3>Contact Us</h3>
 
-			<div><p>If you have any questions about this privacy policy, please contact us at <a href="mailto:soporte.bodega.ras@gmail.com">soporte.pisco.armada@gmail.com</a></p></div>
+			<div><p>If you have any questions about this privacy policy, please contact us at <a href="mailto:soporte.bodega.ras@gmail.com">soporte.bodega.ras@gmail.com</a></p></div>
 			
 
 			</div>
