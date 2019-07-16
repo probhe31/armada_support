@@ -27,20 +27,32 @@
                
 
                         
-                    <div class="col-md-3"></div>
-                    <div class="col-md-6">
+                    <div class="col-md-2"></div>
+                    <div class="col-md-8">
 
                         <div class="section-header text-left margin_left_pe">
 
                         <h2 class="title_section">BODEGA RAS</h2>
                         <h3 class="subtitle_section">Support</h3>
-                        <div class="image_container"><img src="{{URL::asset('img/web_hi_res_512.png')}}" alt="Avatar" class="logo" width="180px"></div>
-
+                        
+                        <div class="row">
+                            <div class="col-md-12 text-center">                                
+                                
+                                    <img src="{{URL::asset('img/web_hi_res_512.png')}}" alt="Avatar" class="logo" width="180px">
+                               
+                                    <img src="{{URL::asset('img/macedonio_ico.png')}}" alt="Avatar" class="logo" width="180px">
+                                                             
+                            </div>
 
                         </div>
+                        
+                        
+                        </div>
+                        
+                        <div class="spacing"></div>
 
                        <p class="contact-us">Please contact us at:</p>
-                       <p class="contact-us"><a class="link" href="mailto:soporte.pisco.armada@gmail.com">soporte.pisco.armada@gmail.com</a></p>
+                       <p class="contact-us"><a class="link" href="mailto:soporte.pisco.armada@gmail.com">soporte.bodega.ras@gmail.com</a></p>
 
                         <!--{!! Form::open(['route' => 'contact.store']) !!}
                             {!! Form::text('name', null, ['class' => 'input', 'placeholder'=>__('Name')]) !!}
@@ -50,7 +62,7 @@
                         {!! Form::close() !!}-->
 
                     </div>
-                     <div class="col-md-3"></div>
+                     <div class="col-md-2"></div>
 
                  </div>
 

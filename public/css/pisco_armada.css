@@ -15,14 +15,22 @@ body{
 
 .subtitle_section{
     text-align: center;
-    margin-bottom: 10px;
+    margin-bottom: 40px;
 }
 
 .pb-image-pj{
     text-align: center;
 }
 
+
+.ico_container{
+    align-items: center;
+    text-align: center;
+    display: inline-block;
+}
+
 .image_container{
+    align-items: center;
     text-align: center;
     margin-bottom: 50px;
 }
@@ -37,6 +45,10 @@ h1{
 
 .logo{
 	border-radius: 20%;
+}
+
+.spacing{
+    margin-bottom: 80px;
 }
 
 input{
@@ -75,7 +87,7 @@ textarea{
 
 .subtitle_section{
     text-align: center;
-    margin-bottom: 10px;
+    margin-bottom: 40px;
 }
 
 .pb-image-pj{

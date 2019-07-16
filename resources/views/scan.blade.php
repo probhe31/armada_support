@@ -42,7 +42,7 @@
                         <p class="contact-us">** For a full experience, scan this label from the side menu option "SCAN FROM WEB" in the Pisco Armada App.</p>
                         <br>
                        <p class="contact-us">Please contact us at:</p>
-                       <p class="contact-us"><a class="link" href="mailto:soporte.pisco.armada@gmail.com">soporte.pisco.armada@gmail.com</a></p>
+                       <p class="contact-us"><a class="link" href="mailto:soporte.bodega.ras@gmail.com">soporte.pisco.armada@gmail.com</a></p>
 
 
                         <!--{!! Form::open(['route' => 'contact.store']) !!}

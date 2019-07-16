@@ -28,5 +28,12 @@ Route::get('/privacy', function () {
     return view('privacy');
 });
 
+Route::get('/privacy/armada', function () {
+    return view('privacy');
+});
+
+Route::get('/privacy/macedonio', function () {
+    return view('privacyMacedonio');
+});
 
 Route::post('contact', 'ContactController@store')->name('contact.store');

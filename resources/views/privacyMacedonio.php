@@ -1,12 +1,12 @@
 <html><head>
 <meta http-equiv="content-type" content="text/html; charset=windows-1252">
- <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css" media="all" />
- <link rel="stylesheet" href="css/pisco_armada.css" type="text/css" media="all" />
+ <link rel="stylesheet" href="../css/bootstrap.min.css" type="text/css" media="all" />
+ <link rel="stylesheet" href="../css/pisco_armada.css" type="text/css" media="all" />
 
 
 
 
-<title>Pisco Armada App Privacy Policy</title>
+<title>Pisco Macedonio App Privacy Policy</title>
 </head>
 
 <body>
@@ -18,16 +18,16 @@
 		<div class="col-md-8">
 			
 
-			<h1>PISCO ARMADA</h1>
-			<div class="image_container"><img src="{{URL::asset('img/web_hi_res_512.png')}}" alt="Avatar" class="logo" width="180px"></div>
+			<h1>PISCO MACEDONIO</h1>
+			<div class="image_container"><img src="../img/macedonio_ico.png" alt="Avatar" class="logo" width="180px"></div>
 
 			<h2>Privacy Policy</h2>
 
 
 			<div><p>Last updated: Jun 14th, 2019</p></div>
 
-			<div><p><a href="">Pisco Armada</a>
-			 is the operator of the Pisco Armada app. This policy 
+			<div><p><a href="">Pisco Macedonio</a>
+			 is the operator of the Pisco Macedonio app. This policy 
 			informs you of our policies regarding the collection, use and disclosure
 			 of Personal Information of users of the app.</p></div>
 
@@ -62,8 +62,8 @@
 
 	</div>	
 	
- <script type="text/javascript" src="js/jquery.min.js"></script>
-    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+ <script type="text/javascript" src="../js/jquery.min.js"></script>
+    <script type="text/javascript" src="../js/bootstrap.min.js"></script>
 
 </body>
 

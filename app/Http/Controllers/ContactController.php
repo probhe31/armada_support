@@ -25,7 +25,7 @@ class ContactController extends Controller
 
 		    
 
-		    $email = "soporte.pisco.armada@gmail.com";
+		    $email = "soporte.bodega.ras@gmail.com";
 		    Mail::to($email)->send(new ContactEmail($contact));
 
 		    return back();
