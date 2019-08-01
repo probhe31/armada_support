@@ -20,6 +20,10 @@ Route::get('/scan', function () {
     return view('scan');
 });
 
+Route::get('/scan/macedonio', function () {
+    return view('scanMacedonio');
+});
+
 Route::get('/support', function () {
     return view('support');
 });
